@@ -24,7 +24,11 @@ class EmployeeController {
         this.repository = repository;
     }
 
-
+    // Endpoint simple que devuelve un mensaje
+    @GetMapping("/saludo")
+    public String obtenerSaludo() {
+        return "¡Hola, bienvenido a mi API!";
+    }
 
     // Aggregate root
     // tag::get-aggregate-root[]

@@ -1,7 +1,7 @@
-com/demo/demo/EmployeeController.class
-com/demo/demo/Employee.class
-com/demo/demo/EmployeeRepository.class
-com/demo/demo/DemoApplication.class
-com/demo/demo/LoadDatabase.class
-com/demo/demo/EmployeeNotFoundAdvice.class
-com/demo/demo/EmployeeNotFoundException.class
+com/demo/basic/LoadDatabase.class
+com/demo/basic/DemoApplication.class
+com/demo/basic/EmployeeNotFoundAdvice.class
+com/demo/basic/EmployeeRepository.class
+com/demo/basic/Employee.class
+com/demo/basic/EmployeeController.class
+com/demo/basic/EmployeeNotFoundException.class

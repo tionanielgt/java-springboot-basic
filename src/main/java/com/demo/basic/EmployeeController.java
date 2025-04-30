@@ -25,6 +25,7 @@ class EmployeeController {
     }
 
 
+
     // Aggregate root
     // tag::get-aggregate-root[]
     @GetMapping("/employees")

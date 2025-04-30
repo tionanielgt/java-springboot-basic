@@ -1,7 +1,7 @@
-/Users/danielgarcia/Downloads/demo/src/main/java/com/demo/demo/DemoApplication.java
-/Users/danielgarcia/Downloads/demo/src/main/java/com/demo/demo/Employee.java
-/Users/danielgarcia/Downloads/demo/src/main/java/com/demo/demo/EmployeeController.java
-/Users/danielgarcia/Downloads/demo/src/main/java/com/demo/demo/EmployeeNotFoundAdvice.java
-/Users/danielgarcia/Downloads/demo/src/main/java/com/demo/demo/EmployeeNotFoundException.java
-/Users/danielgarcia/Downloads/demo/src/main/java/com/demo/demo/EmployeeRepository.java
-/Users/danielgarcia/Downloads/demo/src/main/java/com/demo/demo/LoadDatabase.java
+/Users/danielgarcia/Downloads/java-springboot-basic/src/main/java/com/demo/basic/DemoApplication.java
+/Users/danielgarcia/Downloads/java-springboot-basic/src/main/java/com/demo/basic/Employee.java
+/Users/danielgarcia/Downloads/java-springboot-basic/src/main/java/com/demo/basic/EmployeeController.java
+/Users/danielgarcia/Downloads/java-springboot-basic/src/main/java/com/demo/basic/EmployeeNotFoundAdvice.java
+/Users/danielgarcia/Downloads/java-springboot-basic/src/main/java/com/demo/basic/EmployeeNotFoundException.java
+/Users/danielgarcia/Downloads/java-springboot-basic/src/main/java/com/demo/basic/EmployeeRepository.java
+/Users/danielgarcia/Downloads/java-springboot-basic/src/main/java/com/demo/basic/LoadDatabase.java
